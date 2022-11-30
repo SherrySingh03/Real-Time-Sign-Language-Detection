@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>bathroom.803f08b0-68ed-11ed-a6fa-8038fb2f0103.jpg</filename>
+	<path>D:\Projects\MLProjects\SignLanguageDetector\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\bathroom.803f08b0-68ed-11ed-a6fa-8038fb2f0103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bathroom</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>525</xmin>
+			<ymin>246</ymin>
+			<xmax>640</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

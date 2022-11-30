@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>more.570293cc-68ed-11ed-81c2-8038fb2f0103.jpg</filename>
+	<path>D:\Projects\MLProjects\SignLanguageDetector\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\more.570293cc-68ed-11ed-81c2-8038fb2f0103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>More</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>147</ymin>
+			<xmax>301</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
